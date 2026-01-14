@@ -1,0 +1,16 @@
+{
+  "name": "aratashen_winery_links",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'Development server would start here'",
+    "build": "echo 'Build process would run here'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/menuason/aratashen_winery_links.git"
+  },
+  "private": true
+}
